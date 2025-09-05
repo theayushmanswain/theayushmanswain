@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayushmanswain7854@gmail.com**
 
-- ⚡ Fun fact **I believe version control is just adulting for developers."**
+- ⚡**I believe version control is just adulting for developers."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
