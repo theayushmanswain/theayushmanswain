@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Ayushman</h1>
+<h1 align="center">Hi 👋, I'm Ayushman</h1>
 <h3 align="center">A passionate tech enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theayushmanswain&label=Profile%20views&color=0e75b6&style=flat" alt="theayushmanswain" /> </p>
